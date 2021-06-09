@@ -18,5 +18,3 @@ client.on("ready",async () => {
 
 
 client.connect()
-
-c
