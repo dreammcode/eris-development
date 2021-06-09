@@ -1,0 +1,15 @@
+{
+  "name": "eris-development",
+  "version": "0.0.1",
+  "description": "Dream Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eris": "^0.15.1",
+    "mongoose": "^5.12.9"
+  }
+}

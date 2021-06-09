@@ -1,0 +1,6 @@
+{
+  "prefix": "Your Prefix",
+  "token": "Your Bot Token",
+  "owner": "Your ID",
+  "mongoDB": "MONGODB URL"
+}
